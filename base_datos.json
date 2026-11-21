@@ -1,0 +1,745 @@
+[
+  {
+    "id": 1,
+    "categoria": "Envíos",
+    "pregunta": "¿En cuánto tiempo llega mi pedido?",
+    "respuesta": "El envío estándar tarda entre 3 y 5 días hábiles a partir de que se confirma tu pago. Si seleccionas envío exprés al finalizar la compra, recibirás tu paquete en un plazo de 24 a 48 horas hábiles."
+  },
+  {
+    "id": 2,
+    "categoria": "Pagos",
+    "pregunta": "¿Qué métodos de pago aceptan?",
+    "respuesta": "Aceptamos tarjetas de crédito y débito (Visa, Mastercard y American Express), PayPal, billeteras digitales como Apple Pay y Google Pay, además de transferencias bancarias y pagos en efectivo en comercios autorizados."
+  },
+  {
+    "id": 3,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Cuál es la política de devoluciones y cuántos días tengo?",
+    "respuesta": "Cuentas con hasta 30 días naturales a partir de la entrega para solicitar una devolución. El artículo debe estar sin uso, en perfectas condiciones, con sus etiquetas intactas y en su empaque original."
+  },
+  {
+    "id": 4,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Cómo aplico un código de descuento o cupón en mi compra?",
+    "respuesta": "En la pantalla del carrito o en el resumen de pago encontrarás el campo \"Código de descuento\". Escribe tu cupón respetando mayúsculas y presiona \"Aplicar\" para ver el monto descontado antes de confirmar la compra."
+  },
+  {
+    "id": 5,
+    "categoria": "Pedidos",
+    "pregunta": "¿Cómo sé si mi compra se confirmó correctamente?",
+    "respuesta": "Al completar el pago verás una pantalla de confirmación con tu número de pedido y recibirás un correo electrónico con el resumen detallado. Si no aparece en tu bandeja principal, revisa la carpeta de correo no deseado o promociones."
+  },
+  {
+    "id": 6,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Necesito crear una cuenta para poder comprar?",
+    "respuesta": "No es obligatorio, ya que puedes comprar como invitado ingresando únicamente tu correo y dirección de entrega. Sin embargo, crear una cuenta te permite rastrear pedidos fácilmente, guardar direcciones y acceder a tu historial."
+  },
+  {
+    "id": 7,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Tienen opción de comprar en línea y recoger en tienda?",
+    "respuesta": "Sí, al finalizar tu compra puedes elegir \"Retiro en sucursal\" y seleccionar la tienda más cercana. Si el producto está disponible en esa sucursal, estará listo en 2 a 4 horas hábiles; si viene de almacén central, tardará de 3 a 5 días hábiles."
+  },
+  {
+    "id": 8,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Los productos que venden son 100% originales?",
+    "respuesta": "Sí, todos nuestros artículos son 100% originales y provienen directamente de los fabricantes o distribuidores autorizados. Cada producto cuenta con sus sellos de autenticidad y respaldo oficial de marca."
+  },
+  {
+    "id": 9,
+    "categoria": "Facturación",
+    "pregunta": "¿Cómo solicito la factura fiscal de mi compra?",
+    "respuesta": "Puedes generar tu factura desde el enlace incluido en tu correo de confirmación o en la sección \"Mis pedidos\" de tu cuenta. Solo necesitas ingresar tu número de pedido, tus datos fiscales completos y el uso del comprobante."
+  },
+  {
+    "id": 10,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Cuál es el horario de atención al cliente?",
+    "respuesta": "Nuestro equipo de soporte atiende de lunes a viernes de 9:00 a 19:00 horas y los sábados de 9:00 a 14:00 horas. Fuera de ese horario puedes dejarnos tu consulta por formulario o chat y la responderemos a primera hora del siguiente día hábil."
+  },
+  {
+    "id": 11,
+    "categoria": "Pedidos",
+    "pregunta": "¿Cómo puedo cancelar un pedido?",
+    "respuesta": "Puedes cancelar tu pedido desde el apartado \"Mis pedidos\" siempre que su estado siga como \"confirmado\" y aún no haya pasado a preparación. Si ya fue procesado para envío, contáctanos de inmediato para verificar si es posible detener la salida."
+  },
+  {
+    "id": 12,
+    "categoria": "Envíos",
+    "pregunta": "¿Cómo puedo rastrear mi paquete?",
+    "respuesta": "Cuando tu pedido salga de nuestro almacén te enviaremos un correo con el número de guía y el enlace directo de seguimiento. También puedes consultar el estatus en tiempo real entrando a \"Mis pedidos\" dentro de tu perfil."
+  },
+  {
+    "id": 13,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Los productos cuentan con garantía y por cuánto tiempo?",
+    "respuesta": "Todos los artículos de nuestro catálogo incluyen 1 año de garantía contra defectos de fabricación a partir de la fecha de entrega. Algunos productos electrónicos de marca específica pueden ofrecer cobertura adicional del fabricante."
+  },
+  {
+    "id": 14,
+    "categoria": "Pagos",
+    "pregunta": "¿Aceptan pagos a meses sin intereses o en cuotas?",
+    "respuesta": "Sí, ofrecemos de 3 a 12 meses sin intereses con tarjetas de crédito participantes en compras superiores al monto mínimo indicado en el checkout. Las opciones disponibles para tu banco se mostrarán automáticamente al ingresar los dígitos de tu tarjeta."
+  },
+  {
+    "id": 15,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Cuándo volverán a tener stock de un producto agotado?",
+    "respuesta": "La reposición de inventario suele tardar entre 1 y 3 semanas dependiendo del proveedor. Puedes pulsar el botón \"Notificarme cuando esté disponible\" en la ficha del producto para recibir un aviso por correo en cuanto regrese a tienda."
+  },
+  {
+    "id": 16,
+    "categoria": "Facturación",
+    "pregunta": "¿Los precios mostrados en la tienda ya incluyen impuestos o IVA?",
+    "respuesta": "Sí, todos los precios publicados en la tienda ya incluyen impuestos y no tienen cargos ocultos al momento de pagar. El desglose fiscal correspondiente aparecerá detallado tanto en tu recibo de compra como en tu factura."
+  },
+  {
+    "id": 17,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿En cuánto tiempo recibo mi reembolso una vez devuelto el producto?",
+    "respuesta": "Una vez que el paquete llega a nuestra bodega y supera la revisión de calidad, emitimos tu reembolso en un plazo de 3 a 7 días hábiles. El tiempo en que se refleja en tu estado de cuenta puede variar ligeramente según tu banco."
+  },
+  {
+    "id": 18,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Cómo recupero mi contraseña si la olvidé?",
+    "respuesta": "Haz clic en \"¿Olvidaste tu contraseña?\" en la pantalla de inicio de sesión e ingresa el correo electrónico con el que te registraste. Recibirás en pocos minutos un enlace seguro para crear una nueva clave de acceso."
+  },
+  {
+    "id": 19,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Ofrecen algún descuento por primera compra?",
+    "respuesta": "Sí, al suscribirte a nuestro boletín de bienvenida recibirás un cupón del 10% de descuento para usar en tu primer pedido. El código llega a tu correo en unos minutos y es válido durante 15 días naturales."
+  },
+  {
+    "id": 20,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Qué documentos necesito llevar para recoger mi pedido en sucursal?",
+    "respuesta": "Debes presentar una identificación oficial vigente con fotografía y mostrar tu correo o código QR de confirmación de pedido listo para retiro. Con esos dos datos nuestro personal de mostrador validará y entregará tu compra."
+  },
+  {
+    "id": 21,
+    "categoria": "Pagos",
+    "pregunta": "¿Es seguro ingresar los datos de mi tarjeta en la tienda?",
+    "respuesta": "Sí, todo nuestro sitio opera bajo cifrado SSL/TLS de 256 bits y procesa los pagos mediante pasarelas certificadas PCI-DSS. Nunca almacenamos ni tenemos acceso directo al código de seguridad (CVV) de tu tarjeta."
+  },
+  {
+    "id": 22,
+    "categoria": "Envíos",
+    "pregunta": "¿Ofrecen envío gratis?",
+    "respuesta": "Sí, ofrecemos envío estándar gratuito en todas las compras iguales o superiores a $50 USD (o su equivalente en moneda local). Si tu pedido no alcanza ese monto, puedes sumar artículos o recogerlo sin costo en cualquiera de nuestras sucursales."
+  },
+  {
+    "id": 23,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Cómo solicito una devolución paso a paso?",
+    "respuesta": "Ingresa a \"Mis pedidos\", selecciona la compra correspondiente, haz clic en \"Solicitar devolución\" y elige el motivo junto con el artículo a devolver. Luego podrás descargar la etiqueta de retorno o elegir la entrega directa en tienda."
+  },
+  {
+    "id": 24,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Dónde puedo ver la guía de tallas o medidas de un artículo?",
+    "respuesta": "En la página de cada producto encontrarás el enlace \"Guía de tallas y medidas\" justo arriba del selector de variante. Incluye dimensiones exactas en centímetros y recomendaciones de ajuste para ayudarte a elegir correctamente."
+  },
+  {
+    "id": 25,
+    "categoria": "Pedidos",
+    "pregunta": "Mi pedido aparece como \"entregado\" pero no lo recibí, ¿qué hago?",
+    "respuesta": "Primero verifica si algún familiar, vecino o el personal de recepción del edificio recibió el paquete por ti. Si nadie lo tiene, comunícate con nuestro equipo de soporte en las próximas 48 horas para abrir un reporte inmediato con la paquetería."
+  },
+  {
+    "id": 26,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Por qué mi cupón de descuento no funciona?",
+    "respuesta": "Asegúrate de haber escrito el código sin espacios adicionales y de cumplir con sus condiciones, como monto mínimo de compra, fecha de vigencia o categorías participantes. Algunos cupones son exclusivos para ciertos métodos de pago o cuentas registradas."
+  },
+  {
+    "id": 27,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Dónde consulto mi historial de pedidos anteriores?",
+    "respuesta": "Inicia sesión en tu cuenta y entra al menú \"Mi perfil\" y luego a \"Mis pedidos\". Ahí verás todas tus compras pasadas y activas, junto con el detalle de productos, montos pagados y guías de rastreo."
+  },
+  {
+    "id": 28,
+    "categoria": "Facturación",
+    "pregunta": "¿Cuánto tiempo tengo después de comprar para generar mi factura?",
+    "respuesta": "Dispones de hasta 30 días naturales posteriores a la fecha de compra para emitir tu factura desde el portal. Pasado ese plazo el sistema cierra el periodo fiscal y no es posible generarla de forma retroactiva."
+  },
+  {
+    "id": 29,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Puedo devolver en una tienda física un producto comprado en línea?",
+    "respuesta": "Sí, puedes acudir a cualquiera de nuestras sucursales con el artículo en su empaque original y tu comprobante de compra digital o impreso. El reembolso se procesará hacia el mismo método de pago en un plazo de 3 a 7 días hábiles."
+  },
+  {
+    "id": 30,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Cómo puedo hablar con un asesor humano en lugar del chatbot?",
+    "respuesta": "Dentro del chat de ayuda escribe \"Hablar con un asesor\" o selecciona la opción de contacto humano para transferir tu conversación de inmediato. También puedes llamarnos o escribirnos por WhatsApp dentro de nuestro horario de atención."
+  },
+  {
+    "id": 31,
+    "categoria": "Envíos",
+    "pregunta": "¿Cuál es el costo de envío?",
+    "respuesta": "Si tu pedido es menor a $50 USD (o su equivalente en moneda local), el envío estándar tiene un costo base desde $5 USD calculado según el peso y tu código postal. El importe exacto siempre se muestra antes de confirmar el pago."
+  },
+  {
+    "id": 32,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "Mi producto llegó dañado o roto, ¿cómo pido un reemplazo?",
+    "respuesta": "Contáctanos dentro de las primeras 72 horas tras recibir el paquete adjuntando fotografías claras del daño y de la caja de envío. Generaremos una guía de retorno gratuita y enviaremos un reemplazo nuevo sin costo adicional apenas validemos el reporte."
+  },
+  {
+    "id": 33,
+    "categoria": "Pagos",
+    "pregunta": "¿Puedo pagar contra entrega en efectivo?",
+    "respuesta": "El pago contra entrega en efectivo está disponible únicamente en zonas metropolitanas seleccionadas y para pedidos que no superen el límite establecido en el carrito. Al ingresar tu dirección en el checkout verás si tu código postal cuenta con cobertura."
+  },
+  {
+    "id": 34,
+    "categoria": "Pedidos",
+    "pregunta": "¿Puedo modificar los productos de mi pedido después de pagarlo?",
+    "respuesta": "Una vez confirmado el pago no es posible cambiar directamente el modelo, talla o cantidad de un artículo. Si el pedido aún no entra en preparación, te recomendamos cancelarlo desde tu cuenta y realizar una nueva compra con los productos correctos."
+  },
+  {
+    "id": 35,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Tienen programa de puntos o recompensas para clientes frecuentes?",
+    "respuesta": "Sí, al registrarte en la tienda participas automáticamente en nuestro programa de recompensas y acumulas puntos en cada compra completada. Puedes canjear tus puntos acumulados como saldo de descuento en futuros pedidos desde el carrito."
+  },
+  {
+    "id": 36,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Cómo hago válida la garantía de un artículo defectuoso?",
+    "respuesta": "Comunícate con soporte proporcionando tu número de pedido, el número de serie del producto y una breve descripción o video de la falla. Nuestro equipo validará la vigencia de tu garantía de 1 año y te indicará los pasos para recolección o entrega en centro autorizado."
+  },
+  {
+    "id": 37,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Venden productos reacondicionados o únicamente nuevos?",
+    "respuesta": "La gran mayoría de nuestro catálogo corresponde a productos completamente nuevos y sellados de fábrica. Cuando ofrecemos equipos reacondicionados certificados, se indica de forma visible en el título, la descripción y la etiqueta del artículo."
+  },
+  {
+    "id": 38,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Cuánto tiempo guardan mi pedido en tienda antes de cancelarlo?",
+    "respuesta": "Resguardamos tu pedido en la sucursal seleccionada durante 7 días naturales contados desde que recibes el aviso de que está listo para retiro. Si no puedes recogerlo dentro de ese plazo, el pedido se cancela automáticamente y se reembolsa tu pago."
+  },
+  {
+    "id": 39,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Mis datos bancarios quedan guardados automáticamente al pagar?",
+    "respuesta": "No, por tu seguridad solo guardamos tus datos de tarjeta mediante tokenización cifrada si marcas explícitamente la casilla \"Recordar tarjeta para futuras compras\". Puedes eliminar cualquier tarjeta guardada en cualquier momento desde la sección de métodos de pago."
+  },
+  {
+    "id": 40,
+    "categoria": "Facturación",
+    "pregunta": "¿Dónde descargo nuevamente el PDF y XML de mi factura?",
+    "respuesta": "Entra a \"Mis pedidos\" dentro de tu cuenta, abre la compra correspondiente y haz clic en \"Descargar factura\" para obtener los archivos PDF y XML al instante. También conservamos una copia en el correo electrónico que registraste al solicitarla."
+  },
+  {
+    "id": 41,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿La devolución tiene algún costo o el envío de regreso es gratis?",
+    "respuesta": "El envío de regreso es totalmente gratis si el motivo es un defecto de fábrica, daño en el traslado o error nuestro al surtir tu orden. Si devuelves el artículo por cambio de opinión, puedes entregarlo gratis en sucursal o se descontará el costo de la guía."
+  },
+  {
+    "id": 42,
+    "categoria": "Pedidos",
+    "pregunta": "Recibí un producto diferente al que pedí, ¿cómo lo soluciono?",
+    "respuesta": "Lamentamos el inconveniente; repórtalo con nuestro equipo de atención adjuntando tu número de pedido y una foto del artículo recibido. Te enviaremos sin costo una guía de devolución y despacharemos el producto correcto con prioridad."
+  },
+  {
+    "id": 43,
+    "categoria": "Envíos",
+    "pregunta": "¿Tienen opción de envío exprés o al día siguiente?",
+    "respuesta": "Sí, contamos con envío exprés de 24 a 48 horas hábiles en las principales ciudades del país. Si realizas tu pedido antes de las 14:00 horas de un día hábil, saldrá el mismo día desde nuestro almacén."
+  },
+  {
+    "id": 44,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Puedo reservar un producto en mi carrito sin comprarlo todavía?",
+    "respuesta": "Agregar artículos al carrito no aparta el inventario, por lo que su disponibilidad se garantiza únicamente cuando el pago queda aprobado. Si deseas asegurar un producto de alta demanda, te sugerimos completar la compra cuanto antes."
+  },
+  {
+    "id": 45,
+    "categoria": "Pagos",
+    "pregunta": "¿Por qué fue rechazado mi pago con tarjeta?",
+    "respuesta": "Los rechazos suelen deberse a fondos insuficientes, límites diarios de compra en línea, datos ingresados con error o bloqueos preventivos de seguridad de tu banco. Te aconsejamos verificar los datos, autorizar la operación en tu app bancaria o intentar con otro método."
+  },
+  {
+    "id": 46,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Cómo puedo cambiar el correo electrónico asociado a mi cuenta?",
+    "respuesta": "Inicia sesión, dirígete a \"Mi perfil\" > \"Datos personales\" y selecciona \"Editar correo electrónico\". Deberás confirmar el cambio mediante un enlace de verificación que enviaremos a tu nueva dirección para mantener protegida tu cuenta."
+  },
+  {
+    "id": 47,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Qué cubre y qué no cubre la garantía?",
+    "respuesta": "La garantía cubre fallas técnicas, errores de funcionamiento y defectos de fabricación bajo condiciones normales de uso. No cubre daños ocasionados por golpes, derrames de líquidos, variaciones de voltaje, desgaste natural ni manipulación por terceros no autorizados."
+  },
+  {
+    "id": 48,
+    "categoria": "Facturación",
+    "pregunta": "¿Puedo corregir los datos fiscales de una factura ya emitida?",
+    "respuesta": "Si detectas un error en tu factura y aún te encuentras dentro de los 30 días naturales posteriores a la compra, solicita la refacturación con nuestro equipo de soporte. Cancelaremos el comprobante anterior y emitiremos uno nuevo con los datos corregidos."
+  },
+  {
+    "id": 49,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Ofrecen servicio de envoltura para regalo y tarjeta dedicatoria?",
+    "respuesta": "Sí, en el carrito puedes activar la opción \"Enviar como regalo\" para añadir empaque especial y escribir un mensaje personalizado sin costo adicional. Tu dedicatoria se imprimirá en una tarjeta incluida dentro del paquete."
+  },
+  {
+    "id": 50,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Puedo usar más de un cupón en el mismo pedido?",
+    "respuesta": "Por regla general, nuestro sistema permite aplicar un solo cupón de descuento por pedido. En campañas especiales algunos códigos sí pueden combinarse con puntos de recompensa o envío gratis según los términos de la promoción."
+  },
+  {
+    "id": 51,
+    "categoria": "Envíos",
+    "pregunta": "¿Qué pasa si no estoy en casa cuando llegue el repartidor?",
+    "respuesta": "La paquetería realizará hasta dos intentos adicionales de entrega en los siguientes días hábiles o dejará un aviso de visita. Si tras los intentos no logra concretarse, el paquete permanecerá en la sucursal de la mensajería durante unos días antes de retornar a bodega."
+  },
+  {
+    "id": 52,
+    "categoria": "Pagos",
+    "pregunta": "¿Aceptan pagos con PayPal o billeteras digitales?",
+    "respuesta": "Sí, puedes pagar de forma rápida y segura usando tu cuenta de PayPal, Apple Pay o Google Pay directamente desde el checkout. Al elegir cualquiera de estas opciones serás redirigido para autorizar el cargo sin compartir tus datos bancarios."
+  },
+  {
+    "id": 53,
+    "categoria": "Pedidos",
+    "pregunta": "¿Qué significa que mi pedido está \"en preparación\"?",
+    "respuesta": "Significa que tu pago ya fue validado y nuestro equipo de almacén está recolectando, revisando y embalando tus artículos para entregarlos a la paquetería. En cuanto el transportista lo recoja, el estado cambiará a \"enviado\"."
+  },
+  {
+    "id": 54,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Puede otra persona recoger mi pedido en tienda por mí?",
+    "respuesta": "Sí, puedes autorizar a un tercero ingresando su nombre completo durante el checkout o desde el detalle de tu pedido antes de que sea retirado. Esa persona deberá presentar su identificación oficial vigente y el código de confirmación de la compra."
+  },
+  {
+    "id": 55,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Puedo cambiar un producto por otra talla o color?",
+    "respuesta": "Sí, dentro de los 30 días naturales puedes solicitar un cambio de talla o color desde \"Mis pedidos\" sujeto a disponibilidad en inventario. Si prefieres acelerar el proceso, también puedes gestionar el cambio directamente en tienda física."
+  },
+  {
+    "id": 56,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Los cupones aplican sobre productos que ya están en rebaja?",
+    "respuesta": "Depende de las condiciones de cada campaña; la mayoría de los cupones promocionales aplican exclusivamente sobre artículos a precio regular. Cuando un código sea acumulable con ofertas vigentes, lo indicaremos expresamente en la descripción de la promoción."
+  },
+  {
+    "id": 57,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Cómo puedo saber si un accesorio es compatible con mi dispositivo o modelo?",
+    "respuesta": "Consulta la pestaña \"Compatibilidad y especificaciones\" en la página del artículo, donde listamos las marcas, series y dimensiones soportadas. Si tu modelo no aparece en la lista, escríbenos por chat para confirmarlo antes de comprar."
+  },
+  {
+    "id": 58,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Tienen soporte técnico para instalar o configurar productos electrónicos?",
+    "respuesta": "Sí, ofrecemos orientación básica de instalación, puesta en marcha y solución de dudas técnicas mediante nuestros asesores especializados. Puedes contactarnos por chat o videollamada dentro de nuestro horario de atención para guiarte paso a paso."
+  },
+  {
+    "id": 59,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Cómo elimino mi cuenta y mis datos personales de la plataforma?",
+    "respuesta": "Puedes solicitar la eliminación definitiva desde \"Mi perfil\" > \"Privacidad y datos\" seleccionando \"Eliminar cuenta\", siempre que no tengas pedidos ni devoluciones en curso. Tu información personal se borrará de forma permanente conforme a nuestra política de privacidad."
+  },
+  {
+    "id": 60,
+    "categoria": "Facturación",
+    "pregunta": "¿Puedo facturar varios pedidos juntos o solo uno por factura?",
+    "respuesta": "El portal de autofacturación genera un comprobante fiscal individual por cada número de pedido para mantener correspondencia exacta con tu pago. Si necesitas una factura consolidada para compras corporativas, solicítala a través de soporte."
+  },
+  {
+    "id": 61,
+    "categoria": "Pedidos",
+    "pregunta": "Faltó un artículo en mi paquete, ¿dónde reporto el faltante?",
+    "respuesta": "Comunícate con atención al cliente dentro de las 48 horas posteriores a la entrega indicando tu número de pedido, el artículo faltante y una foto del contenido recibido. Verificaremos el peso de despacho en almacén para enviarte la pieza pendiente o reembolsarte."
+  },
+  {
+    "id": 62,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Qué productos no aplican para devolución?",
+    "respuesta": "Por motivos de higiene, seguridad y derechos de autor, no aceptamos devoluciones en ropa interior, trajes de baño sin sello higiénico, cosméticos abiertos, productos perecederos, artículos personalizados ni tarjetas de regalo o licencias digitales ya canjeadas."
+  },
+  {
+    "id": 63,
+    "categoria": "Envíos",
+    "pregunta": "¿Realizan envíos internacionales?",
+    "respuesta": "Sí, enviamos a determinados países de América y Europa mediante paquetería internacional con tiempos estimados de 7 a 15 días hábiles. Los costos de aduana e impuestos de importación se calculan según la normativa del país de destino."
+  },
+  {
+    "id": 64,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Cómo puedo comprar y enviar una tarjeta de regalo digital?",
+    "respuesta": "Busca la sección \"Tarjetas de regalo\" en el menú principal, elige el monto y el diseño, e ingresa el correo del destinatario junto con tu mensaje. El código digital se enviará automáticamente en la fecha que programes."
+  },
+  {
+    "id": 65,
+    "categoria": "Pagos",
+    "pregunta": "Me hicieron un doble cargo en mi tarjeta, ¿cómo lo resuelvo?",
+    "respuesta": "En ocasiones uno de los movimientos corresponde a una retención temporal de autorización que el banco libera automáticamente en 24 a 72 horas. Si ambos cargos aparecen como firmes tras ese periodo, envíanos los comprobantes para gestionar la devolución de inmediato."
+  },
+  {
+    "id": 66,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Cómo puedo guardar varias direcciones de envío en mi perfil?",
+    "respuesta": "Ingresa a \"Mi perfil\" > \"Libreta de direcciones\" y haz clic en \"Agregar nueva dirección\". Puedes registrar múltiples domicilios, como tu casa u oficina, y marcar uno como predeterminado para agilizar tus futuras compras."
+  },
+  {
+    "id": 67,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Puedo enviar un pedido como regalo sin que aparezca el precio en el comprobante?",
+    "respuesta": "Sí, al marcar la casilla \"Es un regalo\" durante la compra incluiremos únicamente un ticket de regalo sin precios ni importes visibles. De esa forma, la persona que lo reciba podrá solicitar un cambio en tienda si lo necesita sin ver cuánto costó."
+  },
+  {
+    "id": 68,
+    "categoria": "Facturación",
+    "pregunta": "¿Qué pasa con mi factura si devuelvo el pedido completo?",
+    "respuesta": "Al procesarse una devolución total y su reembolso correspondiente, emitimos una nota de crédito o cancelamos el comprobante fiscal asociado según las disposiciones tributarias vigentes. Recibirás el respaldo de esa actualización en tu correo."
+  },
+  {
+    "id": 69,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Puedo comprar al mayoreo o solicitar una cotización por volumen?",
+    "respuesta": "Sí, contamos con precios especiales para pedidos corporativos y compras por volumen a partir de 10 unidades del mismo artículo. Escríbenos a través del formulario de ventas empresariales indicando los productos y cantidades para enviarte una cotización formal."
+  },
+  {
+    "id": 70,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Puedo contratar una garantía extendida al momento de comprar?",
+    "respuesta": "Sí, en productos electrónicos y electrodomésticos seleccionados verás la opción de añadir 1 o 2 años adicionales de protección directamente en la ficha del producto o en el carrito. La póliza se activa automáticamente al entregarse tu pedido."
+  },
+  {
+    "id": 71,
+    "categoria": "Pagos",
+    "pregunta": "¿Puedo pagar mediante transferencia bancaria o depósito en efectivo?",
+    "respuesta": "Sí, al elegir transferencia bancaria o pago referenciado en tienda de conveniencia recibirás una ficha con la referencia única y el monto exacto. Tienes hasta 48 horas para completar el pago antes de que la orden expire."
+  },
+  {
+    "id": 72,
+    "categoria": "Envíos",
+    "pregunta": "¿Puedo cambiar la dirección de entrega después de realizar la compra?",
+    "respuesta": "Si tu pedido aún no ha sido despachado, contáctanos de inmediato para intentar actualizar la dirección en almacén. Una vez que el paquete está en manos de la paquetería, solo es posible solicitar ajustes limitados sujetos a validación de seguridad y cobertura."
+  },
+  {
+    "id": 73,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Debo devolver el producto en su empaque original?",
+    "respuesta": "Sí, es indispensable devolver el producto dentro de su caja o empaque original completo, incluyendo manuales, cables, accesorios y protectores. Para el envío de regreso puedes colocar esa caja dentro de otro embalaje exterior para evitar que se dañe con etiquetas."
+  },
+  {
+    "id": 74,
+    "categoria": "Pedidos",
+    "pregunta": "¿Puedo agregar otro artículo a un pedido que ya hice?",
+    "respuesta": "No es posible añadir productos adicionales a un pedido cuyo pago ya fue procesado. Deberás realizar un nuevo pedido por el artículo extra o cancelar el primero, si aún está en estado \"confirmado\", para rehacer la compra completa."
+  },
+  {
+    "id": 75,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Los colores del producto en persona coinciden exactamente con las fotos?",
+    "respuesta": "Fotografiamos cada producto con iluminación neutra para mostrar su tono real con la mayor fidelidad posible. No obstante, pueden existir ligeras variaciones visuales debido al brillo, calibración o tipo de pantalla desde la que consultes la tienda."
+  },
+  {
+    "id": 76,
+    "categoria": "Facturación",
+    "pregunta": "¿Se emite factura fiscal cuando compro una tarjeta de regalo?",
+    "respuesta": "La compra de una tarjeta de regalo genera únicamente un comprobante de prepago no fiscal, ya que los impuestos se causan al momento de canjearla. La factura fiscal se emitirá sobre los productos adquiridos cuando se utilice la tarjeta como medio de pago."
+  },
+  {
+    "id": 77,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Tienen descuentos especiales para estudiantes o empresas?",
+    "respuesta": "Sí, contamos con un programa de beneficios para estudiantes verificados con correo institucional y convenios corporativos para empresas registradas. Al validar tu perfil en la sección de beneficios recibirás códigos promocionales exclusivos."
+  },
+  {
+    "id": 78,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Puedo activar la verificación en dos pasos para proteger mi cuenta?",
+    "respuesta": "Sí, puedes habilitar la autenticación en dos pasos desde \"Mi perfil\" > \"Seguridad\". Cada vez que inicies sesión desde un dispositivo nuevo, te solicitaremos un código temporal enviado a tu correo o generado por tu aplicación autenticadora."
+  },
+  {
+    "id": 79,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Cómo puedo presentar una queja o sugerencia sobre el servicio?",
+    "respuesta": "Valoramos mucho tu opinión; puedes enviar cualquier queja o sugerencia desde el formulario \"Tu opinión nos importa\" en el pie de página o escribiendo directamente a nuestro equipo de calidad. Te responderemos con un número de seguimiento en menos de 24 horas hábiles."
+  },
+  {
+    "id": 80,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Tienen puntos de entrega o casilleros inteligentes (lockers) cerca de mí?",
+    "respuesta": "Sí, además de nuestras tiendas físicas contamos con puntos aliados y lockers inteligentes disponibles las 24 horas en zonas céntricas y centros comerciales. Ingresa tu código postal en el carrito para ver los puntos de recolección habilitados cerca de ti."
+  },
+  {
+    "id": 81,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Puedo recibir el reembolso como saldo en tienda en lugar de a mi tarjeta?",
+    "respuesta": "Sí, al tramitar tu devolución puedes elegir recibir el reembolso en forma de saldo o monedero electrónico en tienda. Esta opción se acredita de manera inmediata una vez aprobado el paquete en bodega y no tiene fecha de vencimiento."
+  },
+  {
+    "id": 82,
+    "categoria": "Envíos",
+    "pregunta": "¿Con qué paqueterías o transportistas trabajan?",
+    "respuesta": "Trabajamos con paqueterías certificadas como DHL, FedEx, Estafeta y flotillas locales especializadas según tu zona geográfica. El sistema asigna automáticamente el transportista más rápido y confiable para tu código postal."
+  },
+  {
+    "id": 83,
+    "categoria": "Pedidos",
+    "pregunta": "¿Existe un monto mínimo de compra para hacer un pedido?",
+    "respuesta": "No exigimos un monto mínimo de compra; puedes adquirir desde un solo artículo de nuestro catálogo. Ten en cuenta únicamente que el envío gratuito aplica a partir de $50 USD (o su equivalente en moneda local) y algunas promociones de cuotas tienen mínimos propios."
+  },
+  {
+    "id": 84,
+    "categoria": "Pagos",
+    "pregunta": "¿Puedo combinar dos métodos de pago en una misma compra?",
+    "respuesta": "Puedes combinar saldo a favor o una tarjeta de regalo con cualquier otro método de pago disponible para cubrir la diferencia. Por el momento no es posible dividir el pago entre dos tarjetas bancarias distintas en una misma orden."
+  },
+  {
+    "id": 85,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Cómo me doy de baja de los correos promocionales o newsletter?",
+    "respuesta": "Haz clic en el enlace \"Cancelar suscripción\" ubicado al final de cualquiera de nuestros correos promocionales o desactiva las notificaciones en las preferencias de tu cuenta. Seguirás recibiendo únicamente avisos transaccionales sobre tus pedidos y facturas."
+  },
+  {
+    "id": 86,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Dónde puedo leer reseñas y calificaciones de otros compradores?",
+    "respuesta": "Desplázate hacia la parte inferior de la página de cada producto para ver la sección \"Opiniones de clientes\". Allí mostramos calificaciones verificadas, comentarios y fotografías reales publicadas por personas que ya compraron el artículo."
+  },
+  {
+    "id": 87,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Qué pasa con mi cupón si cancelo o devuelvo el pedido?",
+    "respuesta": "Si el pedido se cancela antes de ser enviado, los cupones de uso general vuelven a quedar disponibles mientras sigan vigentes. En el caso de devoluciones parciales o totales, el reembolso refleja el monto efectivamente pagado y los códigos promocionales de un solo uso no se reactivan."
+  },
+  {
+    "id": 88,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Los precios de la tienda en línea son los mismos que en tienda física?",
+    "respuesta": "Mantenemos los mismos precios base de lista en ambos canales, aunque ocasionalmente lanzamos descuentos exclusivos en línea o liquidaciones puntuales en sucursal. Cuando compres en la web podrás aprovechar las promociones digitales incluso si eliges retiro en tienda."
+  },
+  {
+    "id": 89,
+    "categoria": "Facturación",
+    "pregunta": "¿Puedo solicitar una factura a nombre de una empresa o razón social diferente?",
+    "respuesta": "Sí, puedes emitir la factura a nombre de cualquier persona física o empresa ingresando su identificación fiscal, razón social y domicilio correspondientes en el formulario. Asegúrate de revisar los datos antes de timbrar, ya que son responsabilidad del solicitante."
+  },
+  {
+    "id": 90,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Cuánto tarda el proceso de revisión o reparación en garantía?",
+    "respuesta": "El diagnóstico técnico y la reparación o reemplazo del producto toman entre 7 y 15 días hábiles desde su ingreso al centro de servicio. Te mantendremos informado por correo electrónico en cada etapa del proceso hasta su entrega."
+  },
+  {
+    "id": 91,
+    "categoria": "Pedidos",
+    "pregunta": "¿Puedo hacer un pedido por teléfono o WhatsApp?",
+    "respuesta": "Sí, nuestros asesores de ventas pueden ayudarte a armar tu carrito por teléfono o WhatsApp dentro de nuestro horario de atención. Para proteger tus datos bancarios, te enviaremos un enlace de pago seguro para que completes la transacción directamente."
+  },
+  {
+    "id": 92,
+    "categoria": "Envíos",
+    "pregunta": "¿Hacen entregas los fines de semana o días festivos?",
+    "respuesta": "Los envíos estándar se entregan de lunes a viernes y, en ciertas zonas urbanas, algunas paqueterías también realizan repartos los sábados. Durante domingos y días festivos oficiales no hay servicio de reparto ni procesamiento en almacén."
+  },
+  {
+    "id": 93,
+    "categoria": "Pagos",
+    "pregunta": "¿Aceptan tarjetas de regalo o vales de compra?",
+    "respuesta": "Sí, aceptamos nuestras tarjetas de regalo físicas y digitales, así como vales de compra emitidos por la tienda. Solo ingresa el código de la tarjeta en el apartado de pago del checkout y el saldo se descontará del total."
+  },
+  {
+    "id": 94,
+    "categoria": "Devoluciones y Reembolsos",
+    "pregunta": "¿Cómo sé si ya recibieron mi paquete de devolución en bodega?",
+    "respuesta": "Puedes seguir el trayecto con el número de guía de retorno y recibirás un correo automático en cuanto nuestro almacén escanee la llegada del paquete. También verás el cambio de estado a \"En revisión\" dentro de la sección \"Mis pedidos\"."
+  },
+  {
+    "id": 95,
+    "categoria": "Cuenta y Seguridad",
+    "pregunta": "¿Por qué no me llega el correo de confirmación de mi cuenta?",
+    "respuesta": "Revisa primero las carpetas de spam, correo no deseado o promociones y verifica que escribiste correctamente tu dirección de correo al registrarte. Si tras 10 minutos no aparece, pulsa \"Reenviar correo de verificación\" o agrega nuestro remitente a tus contactos."
+  },
+  {
+    "id": 96,
+    "categoria": "Cupones y Promociones",
+    "pregunta": "¿Cuándo realizan eventos de descuentos especiales como Black Friday o Cyber Monday?",
+    "respuesta": "Participamos cada año en campañas como Black Friday, Cyber Monday, Hot Sale y rebajas de cambio de temporada. Si te suscribes a nuestro boletín o activas las notificaciones en la app, recibirás acceso anticipado a las mejores ofertas."
+  },
+  {
+    "id": 97,
+    "categoria": "Productos y Stock",
+    "pregunta": "¿Los productos incluyen manual en español y accesorios originales?",
+    "respuesta": "Sí, todos los productos nuevos incluyen los accesorios originales especificados por el fabricante dentro de la caja. La mayoría incorpora manual impreso en español, y en modelos importados facilitamos el instructivo digital descargable desde la ficha técnica."
+  },
+  {
+    "id": 98,
+    "categoria": "Garantía y Soporte",
+    "pregunta": "¿Qué hago si la garantía de mi producto ya venció y necesita reparación?",
+    "respuesta": "Aunque haya vencido el periodo de garantía de 1 año, puedes comunicarte con soporte para que te canalicemos con un centro de servicio técnico autorizado. Ellos evaluarán la falla y te brindarán un presupuesto de reparación antes de realizar cualquier trabajo."
+  },
+  {
+    "id": 99,
+    "categoria": "Facturación",
+    "pregunta": "¿El costo de envío se incluye dentro de la misma factura?",
+    "respuesta": "Sí, cuando tu pedido genera un cargo por envío, este aparece desglosado como un concepto adicional dentro de la misma factura fiscal de tu compra. Si obtuviste envío gratis, la factura únicamente mostrará el detalle de los productos adquiridos."
+  },
+  {
+    "id": 100,
+    "categoria": "Tienda Física y Retiro",
+    "pregunta": "¿Cuentan con aplicación móvil disponible para Android y iOS?",
+    "respuesta": "Sí, nuestra aplicación oficial está disponible de forma gratuita en Google Play Store para Android y en la App Store para iOS. Desde ella puedes comprar más rápido, recibir alertas de stock y ofertas exclusivas, y seguir tus envíos en tiempo real."
+  },
+  {
+    "id": 101,
+    "categoria": "Pedidos Realizados",
+    "pregunta": "¿Cuál es el estado de mi pedido?",
+    "respuesta": "Por favor, indícame tu número de registro (por ejemplo #432) para consultar el estado exacto en el índice de pedidos. Índice rápido de los 15 pedidos registrados: #432 (En camino), #105 (Entregado), #189 (En preparación), #214 (En reparto local), #276 (Listo para retiro en tienda), #308 (Confirmado), #351 (En camino), #399 (Entregado), #475 (Envío exprés en ruta), #512 (Intento de entrega fallido), #568 (En preparación), #620 (Cancelado y reembolsado), #684 (Listo para retiro en locker), #739 (En camino) y #815 (En reparto local).",
+    "indice_pedidos": {
+      "#432": {
+        "numero_registro": "#432",
+        "cliente": "Carlos Mendoza",
+        "producto": "Audífonos Bluetooth Pro",
+        "estado": "En camino",
+        "paqueteria": "DHL",
+        "entrega_estimada": "En 2 días hábiles",
+        "detalle": "El paquete salió del centro de distribución y va en ruta hacia la ciudad de destino."
+      },
+      "#105": {
+        "numero_registro": "#105",
+        "cliente": "Sofía Ramírez",
+        "producto": "Teclado Mecánico RGB",
+        "estado": "Entregado",
+        "paqueteria": "FedEx",
+        "entrega_estimada": "Entregado en domicilio",
+        "detalle": "Recibido y firmado en recepción del domicilio registrado."
+      },
+      "#189": {
+        "numero_registro": "#189",
+        "cliente": "Miguel Ángel Torres",
+        "producto": "Monitor Gamer 27 pulgadas",
+        "estado": "En preparación",
+        "paqueteria": "Estafeta",
+        "entrega_estimada": "3 a 5 días hábiles",
+        "detalle": "El pago fue confirmado y el almacén está embalando el producto."
+      },
+      "#214": {
+        "numero_registro": "#214",
+        "cliente": "Valeria Gómez",
+        "producto": "Cafetera Expreso Automática",
+        "estado": "En reparto local",
+        "paqueteria": "DHL",
+        "entrega_estimada": "Hoy antes de las 19:00 h",
+        "detalle": "El repartidor ya tiene tu paquete y se dirige a tu domicilio."
+      },
+      "#276": {
+        "numero_registro": "#276",
+        "cliente": "Fernando Herrera",
+        "producto": "Mochila Impermeable para Laptop",
+        "estado": "Listo para retiro en tienda",
+        "paqueteria": "Retiro en sucursal Centro",
+        "entrega_estimada": "Disponible durante 7 días naturales",
+        "detalle": "Ya puedes pasar al mostrador con tu identificación oficial y código QR."
+      },
+      "#308": {
+        "numero_registro": "#308",
+        "cliente": "Lucía Fernández",
+        "producto": "Smartwatch Deportivo Serie 5",
+        "estado": "Confirmado",
+        "paqueteria": "Por asignar",
+        "entrega_estimada": "3 a 5 días hábiles",
+        "detalle": "Tu orden fue registrada con éxito y pasará al área de almacén en las próximas horas."
+      },
+      "#351": {
+        "numero_registro": "#351",
+        "cliente": "Jorge Luis Morales",
+        "producto": "Silla Ergonómica de Oficina",
+        "estado": "En camino",
+        "paqueteria": "Estafeta",
+        "entrega_estimada": "En 3 días hábiles",
+        "detalle": "En tránsito entre centros logísticos regionales."
+      },
+      "#399": {
+        "numero_registro": "#399",
+        "cliente": "Mariana Castillo",
+        "producto": "Par de Tenis Running Ultra",
+        "estado": "Entregado",
+        "paqueteria": "Flotilla local",
+        "entrega_estimada": "Entregado ayer",
+        "detalle": "Paquete entregado directamente al titular de la compra."
+      },
+      "#475": {
+        "numero_registro": "#475",
+        "cliente": "Diego Navarro",
+        "producto": "Disco Duro Externo SSD 1TB",
+        "estado": "Envío exprés en ruta",
+        "paqueteria": "FedEx",
+        "entrega_estimada": "Mañana antes de las 14:00 h",
+        "detalle": "Despachado con prioridad exprés de 24 a 48 horas."
+      },
+      "#512": {
+        "numero_registro": "#512",
+        "cliente": "Ana Paula Ríos",
+        "producto": "Licuadora de Alta Potencia",
+        "estado": "Intento de entrega fallido",
+        "paqueteria": "DHL",
+        "entrega_estimada": "Segundo intento mañana",
+        "detalle": "El repartidor visitó el domicilio pero no hubo quien recibiera; se reprogramó para el siguiente día hábil."
+      },
+      "#568": {
+        "numero_registro": "#568",
+        "cliente": "Ricardo Vargas",
+        "producto": "Cámara Web Full HD 1080p",
+        "estado": "En preparación",
+        "paqueteria": "FedEx",
+        "entrega_estimada": "3 a 4 días hábiles",
+        "detalle": "En control de calidad y etiquetado dentro de bodega."
+      },
+      "#620": {
+        "numero_registro": "#620",
+        "cliente": "Gabriela Ortega",
+        "producto": "Plancha de Vapor Vertical",
+        "estado": "Cancelado y reembolsado",
+        "paqueteria": "No aplica",
+        "entrega_estimada": "Cancelado a solicitud del cliente",
+        "detalle": "El pedido fue cancelado antes del despacho y el reembolso se envió a la tarjeta original."
+      },
+      "#684": {
+        "numero_registro": "#684",
+        "cliente": "Alejandro Silva",
+        "producto": "Bocina Portátil Resistente al Agua",
+        "estado": "Listo para retiro en locker",
+        "paqueteria": "Locker Inteligente Plaza Norte",
+        "entrega_estimada": "Disponible por 72 horas",
+        "detalle": "Depositado en casillero; usa el PIN enviado a tu correo para abrirlo."
+      },
+      "#739": {
+        "numero_registro": "#739",
+        "cliente": "Daniela Cruz",
+        "producto": "Set de Sartenes Antiadherentes",
+        "estado": "En camino",
+        "paqueteria": "Estafeta",
+        "entrega_estimada": "En 2 días hábiles",
+        "detalle": "El paquete llegó a la terminal local de tu ciudad y pronto saldrá a reparto."
+      },
+      "#815": {
+        "numero_registro": "#815",
+        "cliente": "Roberto Domínguez",
+        "producto": "Tablet 10.5 pulgadas 128GB",
+        "estado": "En reparto local",
+        "paqueteria": "Flotilla local",
+        "entrega_estimada": "Hoy entre 12:00 y 18:00 h",
+        "detalle": "Unidad de reparto asignada en tu zona postal."
+      }
+    }
+  }
+]
