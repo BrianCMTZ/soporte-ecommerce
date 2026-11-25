@@ -40,8 +40,7 @@ RUTA_BASE_DATOS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "base
 MAX_MENSAJES_HISTORIAL = 6
 
 # Nombre de la tienda (lo usa el Agente 2 para presentarse)
-NOMBRE_TIENDA = "La Esquina Tech"
-
+NOMBRE_TIENDA = "TechShell"
 # Preguntas frecuentes que se muestran al abrir la interfaz.
 # Tu base de datos no incluye un contador de frecuencia, así que se eligen por "id".
 # Cambia estos números por los id de las preguntas que quieras mostrar.
