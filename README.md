@@ -77,7 +77,7 @@ soporte-ecommerce/
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/BrianCMTZ/soporte-ecommerce.com
+   git clone https://github.com/BrianCMTZ/soporte-ecommerce.git
    cd soporte-ecommerce
    ```
 
