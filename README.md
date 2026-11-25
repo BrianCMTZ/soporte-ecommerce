@@ -115,6 +115,9 @@ soporte-ecommerce/
    # Windows PowerShell
    Copy-Item .env.example .env
 
+   #Windows CMD
+   copy .env.example .env
+
    # macOS / Linux
    cp .env.example .env
    ```
