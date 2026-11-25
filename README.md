@@ -1,6 +1,6 @@
 # TechShell — Plataforma E-Commerce con Soporte IA Multi-Agente
 
-Aplicación de escritorio para tienda de e-comerce (**TechShell** / atención al cliente **La Esquina Tech**) construida en Python con **CustomTkinter** y un chatbot de soporte basado en una arquitectura **multi-agente** impulsada por la API de **Google Gemini** (`google-genai`). También incluye una interfaz alternativa en línea de comandos.
+Aplicación de escritorio para tienda de e-comerce (**TechShell**) construida en Python con **CustomTkinter** y un chatbot de soporte basado en una arquitectura **multi-agente** impulsada por la API de **Google Gemini** (`google-genai`). También incluye una interfaz alternativa en línea de comandos.
 
 ---
 
